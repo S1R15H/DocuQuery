@@ -1,5 +1,5 @@
 
-# RAGapp — Retrieval-Augmented Generation demo
+# DocuQuery — Retrieval-Augmented Generation demo
 
 This repository is a small RAG (Retrieval-Augmented Generation) demonstration that ingests PDFs, stores chunk embeddings in a vector database (Qdrant), and answers user questions by retrieving relevant chunks and calling an LLM hosted via Amazon Bedrock.
 
